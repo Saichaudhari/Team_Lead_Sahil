@@ -1,5 +1,11 @@
 package new_project;
 
-public class sample {
+public class sample 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("ppppp");
+		
+	}
 
 }
